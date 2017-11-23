@@ -1,6 +1,6 @@
 baseurl = "https://zarak.github.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Zarak's Blog"
-copyright = "&copy; 2017 Zarak Mahmud"
+title = "Zarak"
+# copyright = "&copy; 2017 Zarak Mahmud"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"

@@ -4,7 +4,7 @@ widget = "hero"
 active = true
 date = 2017-10-15
 
-title = "Blog"
+title = "Calibrating Uncertainty"
 
 # Order that this section will appear in.
 weight = 3
@@ -23,5 +23,3 @@ weight = 3
 #  url = "./post/getting-started/"
 #  label = '<i class="fa fa-download"></i> Install Now'
 +++
-
-Thoughts on stuff
