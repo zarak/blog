@@ -23,3 +23,5 @@ weight = 3
 #  url = "./post/getting-started/"
 #  label = '<i class="fa fa-download"></i> Install Now'
 +++
+
+Information is the ability to distinguish reliably between possible alternatives
